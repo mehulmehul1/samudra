@@ -1,0 +1,6 @@
+{
+  "name": "Jellyfish WebGPU TSL Port",
+  "description": "An interactive WebGPU-powered 3D soft-body jellyfish simulation with beautiful custom shader materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
